@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 50vh;
+}
+
+.corpo{
+    margin: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    background-color: #a8bcbd;
+}
+
+.head{
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    padding-top: 10px;
+}
+
+.head:hover {
+    font-size: xx-large;
+    color: black;
+}
+
+.logo{
+    width: 60px;
+    height: auto;
+    padding-bottom: 5px;
+}
+
+.logo:hover{
+    width: 70px;
+    height: auto;
+}
+
+.estilo{
+    display: flex;
+    justify-content:space-between;
+}
+
+.escrito{
+    font-size: 24px;
+    font-family: sans-serif;
+    text-align: justify;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+
+.imagens{
+    width: 490px;
+    height: 490px;
+}
+
+.titulo{
+    text-transform: uppercase;
+    color: #243757;
+}
